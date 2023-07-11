@@ -110,14 +110,4 @@ void loop()
   digitalWrite(LED_4, LOW);
   digitalWrite(LED_5, LOW);
   delay(5000);
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
 }
